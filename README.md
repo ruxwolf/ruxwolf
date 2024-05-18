@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I’m @ruxwolf</h1>
 <h3 align="center">I'm 22 years old. Я тоже говорю по русский.</h3>
+<style>
+  background-color: #fffff;
+</style>
 
 ---
 
