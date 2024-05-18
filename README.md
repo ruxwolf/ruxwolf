@@ -3,18 +3,18 @@
 
 ---
 
-## 🧑‍🚀 About Me
-- 👀 I’m interested in:
-  - 🛠️ Software Development
-  - 🚀 Innovation, always thinking about the future of new technologies
-  - 🤖 Machine Learning
-  - 🛡️ Cybersecurity
+## 🧑‍🚀 Acerca de mí
+- 👀 Estoy interesado en:
+  - 🛠️ Desarrollo de software
+  - 🚀 Innovación.
+  - 🤖 Inteligencia Artifical.
+  - 🛡️ Ciberseguridad.
 
 ---
 
 ## 🌱 Currently Learning
 - ⚙️ Advanced Python
-- [Add more subjects you're learning here]
+- 🇷🇺 Idioma ruso.
 
 ---
 
